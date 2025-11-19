@@ -1,11 +1,10 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import Nav from "./components/Nav";
-import Accueil from "./components/Accueil";
-import Services from "./components/Services";
-import Realisations from "./components/Realisations";
-import Contact from "./components/Contact";
-import MentionsLegales from "./components/Mentions_legales";
+import Accueil from "./components/pages/Accueil";
+import Services from "./components/pages/Services";
+import Realisations from "./components/pages/Realisations";
+import Contact from "./components/pages/Contact";
+import MentionsLegales from "./components/pages/Mentions_legales";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
@@ -23,6 +22,7 @@ function App() {
         <Route path="/Mentions_legales" element={<MentionsLegales />} />
       </Routes>
       <Footer />
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous"></link>
     </div>
   );
 }
