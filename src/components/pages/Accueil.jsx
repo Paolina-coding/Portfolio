@@ -11,7 +11,7 @@ const Accueil = () => {
       <div>
         <div>
           <h3>A propos</h3>
-          <img src="./john-doe-about.jpg" alt="john doe" />
+          <img src="/images/john-doe-about.jpg" alt="john doe" />
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vulputate dictum ipsum, id vestibulum metus finibus sagittis. Vivamus sed imperdiet eros, in molestie turpis. Morbi placerat, ligula eu congue semper, ante augue rhoncus arcu, quis imperdiet ligula lacus sed nisi.</p>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vulputate dictum ipsum, id vestibulum metus finibus sagittis. Vivamus sed imperdiet eros, in molestie turpis. Morbi placerat, ligula eu congue semper, ante augue rhoncus arcu, quis imperdiet ligula lacus sed nisi.</p>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vulputate dictum ipsum, id vestibulum metus finibus sagittis. Vivamus sed imperdiet eros, in molestie turpis. Morbi placerat, ligula eu congue semper, ante augue rhoncus arcu, quis imperdiet ligula lacus sed nisi.</p>
