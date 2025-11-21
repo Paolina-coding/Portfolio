@@ -3,8 +3,7 @@ import Nav from "./Nav";
 
 const Header = () => {
   return (
-    <main className="container">
-      <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <nav class="navbar navbar-expand-lg bg-dark navbar-dark text-uppercase">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">John Doe</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-expanded="false">
@@ -15,7 +14,6 @@ const Header = () => {
           </div>
         </div>
       </nav>   
-    </main>
   );
 };
 
