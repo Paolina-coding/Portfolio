@@ -1,3 +1,17 @@
+To run this project you need to have Node.js installed
+Then open the project in an editor like VSCode
+In your terminal please run 'npm install react-router-dom@6' to be able to navigate between pages  
+Run 'npm i bootstrap@5.3.8' to use bootstrap
+Run 'npm i bootstrap-icons' to be able to see bootstrap icons
+And finally run 'npm run start' which will open a window that displays the project.
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
