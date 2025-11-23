@@ -1,3 +1,5 @@
+This project was made during my studies with the Centre Européen de Formation. It is currently a local website for a developper named John Doe
+
 To run this project you need to have Node.js installed
 Then open the project in an editor like VSCode
 In your terminal please run 'npm install react-router-dom@6' to be able to navigate between pages  
