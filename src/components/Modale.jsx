@@ -30,31 +30,30 @@ const Modale = () => {
                     <div className="col-md-6">
                         <img src={user.avatar_url} alt="profile picture" style={{ width: '100%', height: '100%', objectFit: 'cover' }}/>
                     </div>
-                    <div className="col-md-6">
+                    <div className="col-md-6 text-start">
                         <p>
-                            {user.name}
+                            <i class="bi bi-person"></i> {user.name}
                         </p>
                         <hr />
                         <p>
-                            {user.location}
+                            <i class="bi bi-geo-alt"></i> {user.location}
                         </p>
                         <hr />
                         <p>
-                            {user.bio}
+                            <i class="bi bi-card-text"></i> {user.bio}
                         </p>
                         <hr />
                         <p>
-                            Repositories: {user.public_repos}
+                            <i class="bi bi-box"></i> Repositories: {user.public_repos}
                         </p>
                         <hr />
                         <p>
-                            Followers: {user.followers}
+                            <i class="bi bi-people"></i> Followers: {user.followers}
                         </p>
                         <hr />
                         <p>
-                            Following: {user.following}
+                            <i class="bi bi-people"></i> Following: {user.following}
                         </p>
-                        <hr />
                     </div>
                     </div>
                 </div>
