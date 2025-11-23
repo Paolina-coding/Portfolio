@@ -4,6 +4,7 @@ import Coordonnees from "../coordonnees";
 const Contact = () => {
   return (
     <main className="container">
+      <title>Contacter John Doe</title>
       <div className="text-center">
       <h1>Contact</h1>
       <p class="border-bottom border-3 border-primary pb-2 d-inline-block">Pour me contacter en vue d'un entretien ou d'une future collaboration, merci de remplir le formulaire de contact</p>

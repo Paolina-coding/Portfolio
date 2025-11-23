@@ -4,6 +4,7 @@ import Coordonnees from "../coordonnees";
 const MentionsLegales = () => {
   return (
     <main className="container">
+      <meta name="robots" content="noindex"/>
       <div class="text-center">
         <h1 className="border-bottom  border-3 border-primary pb-2 d-inline-block">Mention légales</h1>
       </div>

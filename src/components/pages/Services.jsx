@@ -3,6 +3,7 @@ import React from "react";
 const Services = () => {
   return (
     <main >
+      <title>Offres de services de John Doe</title>
       <div className="container-fluid p-0 ">
         <div className="banner-bg"></div>
       </div>
