@@ -32,6 +32,10 @@
   min-height: 400px;
 }
 
+.big-icons{
+  font-size: 2rem;
+}
+
 h1, h2, h3, h5, strong{
   font-family: 'Nunito Sans', sans-serif;
   text-align: center;

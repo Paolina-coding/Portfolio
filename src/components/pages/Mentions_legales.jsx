@@ -31,7 +31,7 @@ const MentionsLegales = () => {
             <div class="accordion-body">
               <strong>alwaysdata</strong>
               <p>91 Rue du Faubourg Saint-Honoré, 75008 Paris</p>
-              <a href="www.alwaysdata.com">www.alwaysdata.com</a>
+              <i class="bi bi-globe"></i><a href="www.alwaysdata.com"> www.alwaysdata.com</a>
             </div>
           </div>
         </div>
