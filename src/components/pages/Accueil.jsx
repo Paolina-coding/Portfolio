@@ -3,12 +3,12 @@ import Modale from "../Modale";
 
 const Accueil = () => {
   return (
-    <main>
+    <main class="Accueil">
       <div className="container-fluid p-0 ">
         <div className="hero-bg text-white p-5">
           <h1>Bonjour, je suis John Doe</h1>
           <h2>Développeur web full stack</h2>
-          <button type="button" className="btn btn-danger" data-bs-toggle="modal" data-bs-target="#githubProfile">En savoir plus</button>
+          <button type="button" className="btn btn-danger m-5" data-bs-toggle="modal" data-bs-target="#githubProfile">En savoir plus</button>
           <Modale/>
         </div>
       </div>
