@@ -14,6 +14,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 function App() {
   return (
     <div className="App">
+      <meta name="description" content="John Doe est un développeur web full stack, vous pouvez le contacter et voir ses services et réalisations." />
       <Header />
       <Routes>
       <Route path="/" element={<Accueil />} />

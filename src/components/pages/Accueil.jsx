@@ -4,6 +4,7 @@ import Modale from "../Modale";
 const Accueil = () => {
   return (
     <main class="Accueil">
+      <title>John Doe, développeur web full stack</title>
       <div className="container-fluid p-0 ">
         <div className="hero-bg text-white p-5">
           <h1>Bonjour, je suis John Doe</h1>

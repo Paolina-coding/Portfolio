@@ -5,6 +5,7 @@ import React from "react";
 const Realisations = () => {
   return (
     <main className="container">
+      <title>Réalisations de John Doe</title>
       <div class="text-center">
         <h1>Portfolio</h1>
         <h2 className="border-bottom  border-3 border-primary pb-2 d-inline-block">Voici quelques-unes de mes réalisations</h2>
